@@ -20,6 +20,8 @@ On clicking Submit, a request is sent to EmailValidation.io using a valid API ke
 The response is parsed and dynamically displayed in the "Your Results" section.
 
 🧪 Technologies Used
+
+
 HTML5
 
 CSS3
